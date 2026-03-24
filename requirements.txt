@@ -1,0 +1,6 @@
+pygame==2.5.2
+numpy==1.24.3
+pynoise==0.1.0
+moderngl==5.8.2
+PyGLM==2.7.1
+Pillow==10.0.0
